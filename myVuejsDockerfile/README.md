@@ -53,6 +53,4 @@ Ouvrez votre navigateur et accédez à `http://localhost:8080` pour voir votre a
 
 - [Documentation officielle de Vue.js](https://vuejs.org/v2/guide/)
 - [Documentation officielle de Docker](https://docs.docker.com/)
-```
-
 Ce bout de code combine un `Dockerfile` avec les instructions nécessaires pour lancer un projet Vue.js dans un conteneur Docker.
