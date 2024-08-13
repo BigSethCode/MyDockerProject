@@ -1,4 +1,4 @@
-```markdown
+markdown
 # 🚀 Docker Setup for Vue.js Project
 
 Ce dossier contient un `Dockerfile` qui vous permet de lancer un projet Vue.js dans un conteneur Docker. Avec cette configuration, vous pouvez développer votre application Vue.js dans un environnement isolé et cohérent.
