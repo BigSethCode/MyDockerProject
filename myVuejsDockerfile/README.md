@@ -1,5 +1,3 @@
-Voici un extrait de code Markdown (MD) qui inclut un `Dockerfile` pour un projet Vue.js :
-
 ```markdown
 # 🚀 Docker Setup for Vue.js Project
 
